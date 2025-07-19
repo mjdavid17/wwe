@@ -2,15 +2,15 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-19T16:06:15 PST" name="Suite" finished-at="2025-07-19T16:06:35 PST" duration-ms="19703">
+  <suite started-at="2025-07-19T17:25:45 PST" name="Suite" finished-at="2025-07-19T17:25:53 PST" duration-ms="8353">
     <groups>
     </groups>
-    <test started-at="2025-07-19T16:06:15 PST" name="Test" finished-at="2025-07-19T16:06:35 PST" duration-ms="19703">
+    <test started-at="2025-07-19T17:25:45 PST" name="Test" finished-at="2025-07-19T17:25:53 PST" duration-ms="8353">
       <class name="com.wwe.wwe.Main">
-        <test-method signature="launchURL()[pri:0, instance:com.wwe.wwe.Main@4b0b0854]" started-at="2025-07-19T16:06:15 PST" name="launchURL" finished-at="2025-07-19T16:06:35 PST" duration-ms="19662" status="PASS">
+        <test-method signature="getURL()[pri:0, instance:com.wwe.wwe.Main@4b0b0854]" started-at="2025-07-19T17:25:45 PST" name="getURL" finished-at="2025-07-19T17:25:53 PST" duration-ms="8314" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- launchURL -->
+        </test-method> <!-- getURL -->
       </class> <!-- com.wwe.wwe.Main -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->

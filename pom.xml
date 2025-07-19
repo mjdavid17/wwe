@@ -27,6 +27,16 @@
       </dependency>
     </dependencies>
   </dependencyManagement>
+  
+  <profiles>
+    <profile>
+      <id>qa</id>
+      <properties>
+        <suiteFile>/wwe/testng.xml</suiteFile>
+      </properties>
+    </profile>
+  </profiles>
+  
 
   <dependencies>
     <dependency>

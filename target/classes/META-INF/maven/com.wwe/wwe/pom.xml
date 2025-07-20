@@ -32,7 +32,7 @@
     <profile>
       <id>qa</id>
       <properties>
-        <suiteFile>/wwe/testng.xml</suiteFile>
+        <suiteFile>/wwe/testng1.xml</suiteFile>
       </properties>
     </profile>
   </profiles>

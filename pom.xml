@@ -83,6 +83,11 @@
         <plugin>
           <artifactId>maven-resources-plugin</artifactId>
           <version>3.3.1</version>
+              <configuration>
+        <suiteXmlFiles>
+          <suiteXmlFile>/wwe/testng.xml</suiteXmlFile>
+        </suiteXmlFiles>
+      </configuration>
         </plugin>
         <plugin>
           <artifactId>maven-compiler-plugin</artifactId>
